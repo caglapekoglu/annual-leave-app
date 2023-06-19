@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+
+  *{
+  @apply font-inter 
+  }
+  tr{
+  @apply border-t border-black 
+  }
+  td{
+  @apply py-[2px] font-Maiandra font-normal}
+}
