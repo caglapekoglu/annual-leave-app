@@ -1,2 +1,5 @@
 # annual-leave-app
 I made a full stack web application with an admin page and showing different data for 4 different admins. In this application there is a form screen that everyone can access. When the user fills out the form and submits it, it falls in front of Admin1 first. If Admin1 approves, it falls to Admin2, if Admin 2 approves, it falls to Admin3. When he approves, the permission request is successful. Admin can observe all 4 forms and their current status. At the same time, the user can download the form by converting it to pdf in a specially filled form.
+<img width="866" alt="Ekran Resmi 2023-06-19 11 17 05" src="https://github.com/caglapekoglu/annual-leave-app/assets/79510298/e3d5e3e1-9623-4328-8f3a-2b0ad959c10a">
+<img width="362" alt="Ekran Resmi 2023-06-19 11 17 27" src="https://github.com/caglapekoglu/annual-leave-app/assets/79510298/c90feda4-a4ad-4ab8-844f-aeda4f7e3455">
+<img width="1552" alt="Ekran Resmi 2023-06-19 11 22 55" src="https://github.com/caglapekoglu/annual-leave-app/assets/79510298/0100e0d3-31bf-4c58-9343-f0f5cc5dcd9f">
