@@ -1,1 +1,2 @@
 # annual-leave-app
+I made a full stack web application with an admin page and showing different data for 4 different admins. In this application there is a form screen that everyone can access. When the user fills out the form and submits it, it falls in front of Admin1 first. If Admin1 approves, it falls to Admin2, if Admin 2 approves, it falls to Admin3. When he approves, the permission request is successful. Admin can observe all 4 forms and their current status. At the same time, the user can download the form by converting it to pdf in a specially filled form.
